@@ -44,3 +44,4 @@ app.*.map.json
 
 # Credentials
 lib/globals/credentials.secret.dart
+flutter/
